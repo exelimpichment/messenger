@@ -1,7 +1,7 @@
 
 
 
-my first progect project
+my first  project
 
 main technologies: react.js javascript firebaseFirestore context API framer motion styled components
 

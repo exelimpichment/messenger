@@ -1,3 +1,14 @@
+
+
+
+my first progect project
+
+main technologies: react.js javascript firebaseFirestore context API framer motion styled components
+
+this description will be improved and styled later
+
+____________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
